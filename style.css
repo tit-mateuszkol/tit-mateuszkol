@@ -1,10 +1,10 @@
 body {  background-attachment: fixed;
 		font-family: 'Fira Sans', sans-serif;
 }
-article, side, footer, header, section{
+div.container{
 	display: block;]
 }
-article, header, footer, nav{
+div.container{
 	background: rgba(255, 255, 255, 0.6);
 	padding: 10px; 
 }
