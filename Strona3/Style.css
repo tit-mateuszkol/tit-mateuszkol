@@ -1,0 +1,41 @@
+body {  background: url(tlo.jpg);
+		background-size: 100%;
+		background-attachment: fixed;
+		font-family: 'Fira Sans', sans-serif;
+}
+div.container {
+	width: 1140px;
+	margin: auto;
+	padding: 0 15px;
+}
+article, side, footer, header, section{
+	display: block;]
+}
+article, header, footer, nav{
+	background: rgba(255, 255, 255, 0.6);
+	padding: 10px; 
+}
+footer{
+	text-align: center;
+}
+header{
+	text-align: center;
+}
+#header1{
+	color: #FF0000;
+}
+#article1 h2{
+	color: #000080;
+}
+#article2 h2{
+	color: #000080;
+}
+#nav{
+	color: #800000;
+}
+
+#footer{
+	color: #800000;
+}
+
+
