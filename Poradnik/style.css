@@ -1,0 +1,13 @@
+body {  
+		background-size: 100%;
+		background-attachment: fixed;
+		font-family: 'Fira Sans', sans-serif;
+}
+div.container {
+	width: 1140px;
+	margin: auto;
+	padding: 0 15px;
+}
+article, side, footer, header, section{
+	display: block;]
+}
